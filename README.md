@@ -1,6 +1,6 @@
 # opentimestamp-js-sample
 
-# sample project to test the open sample client
+# sample project to test the opentimestamps client
 
 - _`yarn`_
 - _`yarn start`_
